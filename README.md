@@ -5,6 +5,7 @@ This script is a basic example of the Lua programming language. It was created f
 </td>
 </tr>
 </table>
+
 ---
 
 ## Features
