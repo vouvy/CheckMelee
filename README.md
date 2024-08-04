@@ -1,4 +1,3 @@
----
 <table>
 <tr>
 <td>
@@ -9,4 +8,4 @@ This script is a basic example of the Lua programming language. It was created f
 ---
 
 ## Features
-- Automatic purchase melee "Godhuman"
+- It repeatedly sends a request to the server to execute the "BuyGodhuman" command every 180 seconds
